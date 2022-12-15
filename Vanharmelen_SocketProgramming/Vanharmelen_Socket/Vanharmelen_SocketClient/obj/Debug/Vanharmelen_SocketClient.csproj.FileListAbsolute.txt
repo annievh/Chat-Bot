@@ -1,0 +1,7 @@
+C:\Users\Annie\Downloads\Spring2022\Networking\Assignments\Vanharmelen_SocketProgramming\Vanharmelen_Socket\Vanharmelen_SocketClient\bin\Debug\Vanharmelen_SocketClient.exe.config
+C:\Users\Annie\Downloads\Spring2022\Networking\Assignments\Vanharmelen_SocketProgramming\Vanharmelen_Socket\Vanharmelen_SocketClient\bin\Debug\Vanharmelen_SocketClient.exe
+C:\Users\Annie\Downloads\Spring2022\Networking\Assignments\Vanharmelen_SocketProgramming\Vanharmelen_Socket\Vanharmelen_SocketClient\bin\Debug\Vanharmelen_SocketClient.pdb
+C:\Users\Annie\Downloads\Spring2022\Networking\Assignments\Vanharmelen_SocketProgramming\Vanharmelen_Socket\Vanharmelen_SocketClient\obj\Debug\Vanharmelen_SocketClient.csproj.AssemblyReference.cache
+C:\Users\Annie\Downloads\Spring2022\Networking\Assignments\Vanharmelen_SocketProgramming\Vanharmelen_Socket\Vanharmelen_SocketClient\obj\Debug\Vanharmelen_SocketClient.csproj.CoreCompileInputs.cache
+C:\Users\Annie\Downloads\Spring2022\Networking\Assignments\Vanharmelen_SocketProgramming\Vanharmelen_Socket\Vanharmelen_SocketClient\obj\Debug\Vanharmelen_SocketClient.exe
+C:\Users\Annie\Downloads\Spring2022\Networking\Assignments\Vanharmelen_SocketProgramming\Vanharmelen_Socket\Vanharmelen_SocketClient\obj\Debug\Vanharmelen_SocketClient.pdb
